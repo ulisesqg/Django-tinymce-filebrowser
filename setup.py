@@ -23,7 +23,7 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
-        'sorl-thumbnail',
+        'sorl-thumbnail'>12.3,
         'django-tinymce'
     ],
     classifiers=[
